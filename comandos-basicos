@@ -1,0 +1,23 @@
+pwd (print working directory) - Retorna o caminho do diretório atual
+
+ls (list) - Lista os arquivos presentes no diretório
+
+ls -al - Usado para listar o conteúdo de um diretório **com mais detalhes**
+
+  -a (all) - Lista todos os arquivos, incluindo os ocultos (aqueles que começam com um ponto `.`).
+  
+  -l (long) - Significa 'long', referindo-se ao formato de exibição detalhado (long format), que inclui informações adicionais como permissões, proprietário, grupo, tamanho e data de modificação.
+
+
+mkdir (make directory) nome_diretorio - Usado para criar novos diretórios (pastas) no sistema de arquivos. 
+
+  - Se você quiser criar uma estrutura de diretórios aninhados, pode usar a opção `-p` (abreviação de 'parents'), que cria todos os diretórios necessários no caminho. Ex.: mkdir -p pasta1/pasta2/pasta3
+
+
+clear - Limpa a visualização do terminal
+
+cd (change directory) - Usado para navegar entre diretórios no sistema de arquivos. Ele altera o diretório de trabalho atual, permitindo que você acesse e trabalhe com diferentes pastas e arquivos do sistema.
+
+touch - Usado principalmente para criar arquivos vazios ou atualizar timestamps de arquivos existentes.
+
+nano - Utilizado para abrir o editor de texto Nano diretamente no terminal, permitindo editar arquivos de texto.
