@@ -1,0 +1,1 @@
+*/1 * * * * bash /path/log/insercao.sh >> path/log/log_insercao.log 2>&1
